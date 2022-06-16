@@ -10,3 +10,4 @@ box shadow generator: https://html-css-js.com/css/generator/box-shadow/
 (index*225)-50 that much space it will go and aquire
 because of that 5px in middle the hovered card will be little towards left as we hover fromleft to  right
 So, for totally centered hovered card (index*225) - 50 + (index*225)
+youtube: https://www.youtube.com/watch?v=FzWG8jiw4XM
